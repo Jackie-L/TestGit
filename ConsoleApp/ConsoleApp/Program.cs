@@ -11,7 +11,6 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("这是Jackie分支");
-            Console.WriteLine("这是Jackie分支");
         }
     }
 }
