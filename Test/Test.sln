@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{254B442C-9D03-4761-BE3D-90BE31FB981F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lcweb", "lcweb\lcweb.csproj", "{5B50A5ED-34BC-409D-8534-A6769666C926}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreMVC", "CoreMVC\CoreMVC.csproj", "{03F2D2A8-6286-45BC-A305-537D466F6184}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5B50A5ED-34BC-409D-8534-A6769666C926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B50A5ED-34BC-409D-8534-A6769666C926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B50A5ED-34BC-409D-8534-A6769666C926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F2D2A8-6286-45BC-A305-537D466F6184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F2D2A8-6286-45BC-A305-537D466F6184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F2D2A8-6286-45BC-A305-537D466F6184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F2D2A8-6286-45BC-A305-537D466F6184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
